@@ -55,5 +55,6 @@
 
 
 ### Aggregators
- - https://coinmarketcap.com/ru/currencies/maxcoin/
- - 
+ - https://coinmarketcap.com/en/currencies/maxcoin/
+ - https://www.coinbase.com/en/price/maxcoin
+ - https://www.coingecko.com/en/coins/maxcoin
